@@ -1,10 +1,10 @@
 # Documentasi_OpenApi
 
 *Ini adalah Tampilan Swagger api
-![]((https://github.com/septiisdayanna/Documentasi_OpenApi/blob/f4565c8e371c65de0b85b097c8866fd0065d3805/Dokumentasi%20API.png))
+![](https://github.com/septiisdayanna/Documentasi_OpenApi/blob/f4565c8e371c65de0b85b097c8866fd0065d3805/Dokumentasi%20API.png).
 
 *Ini adalah Tampilan DELETE
-![]((https://github.com/septiisdayanna/Documentasi_OpenApi/blob/f4565c8e371c65de0b85b097c8866fd0065d3805/Dokumentasi%20Bagian%20'DELETE'.png))
+![](https://github.com/septiisdayanna/Documentasi_OpenApi/blob/f4565c8e371c65de0b85b097c8866fd0065d3805/Dokumentasi%20Bagian%20'DELETE'.png)
 
 *Ini adalah Tampilan GET
 ![](https://github.com/septiisdayanna/Documentasi_OpenApi/blob/f4565c8e371c65de0b85b097c8866fd0065d3805/Dokumentasi%20Bagian%20'GET'.png)
